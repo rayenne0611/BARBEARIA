@@ -1,0 +1,23 @@
+#banner{
+    width: 100%;
+}
+
+.titulo-principal{
+    padding-left: 20px;
+}
+.principal{
+    background: rgb(137, 5, 5);
+    padding: 30px;
+    color: white;
+}
+
+.titulo-centralizado{
+ text-align: center;
+}
+
+#missao{
+    font-size: 20px;
+}
+.imagemnoivo{
+    width: 100%;
+}
